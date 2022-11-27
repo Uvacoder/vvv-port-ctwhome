@@ -5,7 +5,7 @@
         <div class="md:flex justify-between items-center">
           <div class="md:w-6/12 lg:p-0 p-7 slidein-animation">
             <h1 class="text-3xl md:text-5xl font-bold font-title">
-              J. Gonzalez
+              Ned Ryerson
             </h1>
 
             <p class="mt-10 text-2xl md:text-3xl lg:text-4xl font-serif">
